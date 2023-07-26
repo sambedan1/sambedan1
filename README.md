@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambedan-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="sambedan-sahoo" /> </p>
 
-- I am currently studying computer science [To-Do list](https://code.sololearn.com/WRzni5Piu32i/?ref=app)
+- I am currently studying computer science 
 
 - 🌱 I’m currently learning **react js**
 

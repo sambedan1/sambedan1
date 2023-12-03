@@ -1,4 +1,4 @@
-![logo]([https://github.com/sambedan1/sambedan1/blob/main/hub%20(5).png](https://github.com/sambedan1/sambedan1/blob/main/readme.gif)
+![logo]([https://github.com/sambedan1/sambedan1/blob/main/hub%20(5).png](https://github.com/sambedan1/sambedan1/blob/main/readme.gif))
 <h1 align="center">Hi 👋, I'm Sambedan Sahoo</h1>
 <h3 align="center">Innovative Full Stack Web Developer & Tech Enthusiast</h3>
 

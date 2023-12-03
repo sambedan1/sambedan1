@@ -2,6 +2,7 @@
   <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambedan-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="sambedan-sahoo" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sambedan Sahoo</h1>
 <h3 align="center">Innovative Full Stack Web Developer & Tech Enthusiast</h3>

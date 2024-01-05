@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://www.sololearn.com/Profile/27603052/?ref=app](https://www.sololearn.com/Profile/27603052/?ref=app)
-
 - 💬 Ask me about **Html,Css,Javascript,DSA**
 
 - 📫 How to reach me **sambedansahooridul@gmail.com**

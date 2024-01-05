@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **Html,Css,Javascript,DSA**
+- 💬 Ask me about **Html,Css,Javascript,NodeJs,DSA**
 
 - 📫 How to reach me **sambedansahooridul@gmail.com**
 

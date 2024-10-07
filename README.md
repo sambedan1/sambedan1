@@ -14,6 +14,13 @@
 - 📫 How to reach me **sambedansahooridul@gmail.com**
 
 - ⚡ Fun fact **I AM FUNNY😍**
+
+ <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sambedan1&theme=darkhub" alt="sambedan1" />
+  </a>
+</p>
+
 <div style="text-align: right;">
   <h3>LeetCode Badges & Contributor Badges</h3>
   <p>

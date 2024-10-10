@@ -27,6 +27,7 @@
     <img src="lg100.png" width="90" height="90" alt="LeetCode Batch 1" />
     <img src="lg50.png" width="90" height="90" alt="LeetCode Batch 2" />
       <img src="HOLOPIN.png" width="90" height="90" alt="Contributer Batch" />
+      <img src="Badge1.png" width="90" height="90" alt="Contributer Batch" />
   </p>
   
 

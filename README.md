@@ -14,28 +14,7 @@
 - 📫 How to reach me **sambedansahooridul@gmail.com**
 
 - ⚡ Fun fact **I AM FUNNY😍**
-
- <h1 align="center">GitHub Statistics 📃</h1>
-<table>
-  <!---
-  <tr>
-		<td><p align="center"> <img src="https://komarev.com/ghpvc/?username=sambedan1&label=Profile%20views&color=0e75b6&style=flat" alt="sambedan1" /> </p></td>
-		<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambedan1&show_icons=true&locale=en&layout=compact" alt="sambedan1" /></p></td>
-	</tr>
-  -->
-  <tr>
-    <td colspan = "2"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sambedan1" alt="sambedan1"></a></td>
-  </tr>
-  <tr>
-		<td colspan = "2"><a href = "https://github.com/sambedan1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sambedan1&bg_color=ffff&hide_border=true&point=false&line=007FFF&radius=8&area=true&area_color=007FFF&title_color=000000&color=000000"></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambedan1&" alt="sambedan1"></a></td>
-		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-stats.vercel.app/api?username=sambedan1&show_icons=true&locale=en" alt="sambedan1"></a></td>
-	</tr>
-</table>
-
-
+- 
 <div style="text-align: right;">
   <h3>LeetCode Badges & Contributor Badges</h3>
   <p>
@@ -62,6 +41,25 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambedan1&show_icons=true&locale=en&layout=compact" alt="sambedan1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambedan1&show_icons=true&locale=en" alt="sambedan1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambedan1&" alt="sambedan1" /></p>
+ <h1 align="center">GitHub Statistics 📃</h1>
+<table>
+  <!---
+  <tr>
+		<td><p align="center"> <img src="https://komarev.com/ghpvc/?username=sambedan1&label=Profile%20views&color=0e75b6&style=flat" alt="sambedan1" /> </p></td>
+		<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambedan1&show_icons=true&locale=en&layout=compact" alt="sambedan1" /></p></td>
+	</tr>
+  -->
+  <tr>
+    <td colspan = "2"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sambedan1" alt="sambedan1"></a></td>
+  </tr>
+  <tr>
+		<td colspan = "2"><a href = "https://github.com/sambedan1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sambedan1&bg_color=ffff&hide_border=true&point=false&line=007FFF&radius=8&area=true&area_color=007FFF&title_color=000000&color=000000"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambedan1&" alt="sambedan1"></a></td>
+		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-stats.vercel.app/api?username=sambedan1&show_icons=true&locale=en" alt="sambedan1"></a></td>
+	</tr>
+</table>
 
 
 

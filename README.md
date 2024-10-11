@@ -14,7 +14,7 @@
 - 📫 How to reach me **sambedansahooridul@gmail.com**
 
 - ⚡ Fun fact **I AM FUNNY😍**
-- 
+
 <div style="text-align: right;">
   <h3>LeetCode Badges & Contributor Badges</h3>
   <p>

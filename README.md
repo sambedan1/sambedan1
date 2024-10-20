@@ -22,6 +22,7 @@
     <img src="lg50.png" width="90" height="90" alt="LeetCode Batch 2" />
       <img src="HOLOPIN.png" width="90" height="90" alt="Contributer Batch" />
       <img src="Badge1.png" width="90" height="90" alt="Contributer Batch" />
+	  <img src="level2-sloth-code-coffee-hoodie-0-0.webp" width="90" height="90" alt="Contributer Batch" />
   </p>
   
 

@@ -16,17 +16,18 @@
 - ⚡ Fun fact **I AM FUNNY😍**
 
 <div style="text-align: right;">
-  <h3>LeetCode Badges & Contributor Badges</h3>
-  <p>
-    <img src="lg100.png" width="90" height="90" alt="LeetCode Batch 1" />
-    <img src="lg50.png" width="90" height="90" alt="LeetCode Batch 2" />
-      <img src="HOLOPIN.png" width="90" height="90" alt="Contributer Batch" />
-      <img src="Badge1.png" width="90" height="90" alt="Contributer Batch" />
-	  <img src="level2-sloth-code-coffee-hoodie-0-0.webp" width="90" height="90" alt="Contributer Batch" />
-  </p>
-  
-
-
+<h3>GSSOC'24 Badges</h3>
+<table align="left">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman API Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
 

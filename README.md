@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sambedansahooridul@gmail.com**
 
-- ⚡ Fun fact **I AM FUNNY😍**
-
 <h3>GSSOC'24 Badges</h3>
 <div style="display: flex; align-items: center;">
   <table>

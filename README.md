@@ -57,10 +57,7 @@
   <tr>
 		<td colspan = "2"><a href = "https://github.com/sambedan1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sambedan1&bg_color=ffff&hide_border=true&point=false&line=007FFF&radius=8&area=true&area_color=007FFF&title_color=000000&color=000000"></a></td>
 	</tr>
-	<tr>
-		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sambedan1&" alt="sambedan1"></a></td>
-		<td><a href="https://github.com/sambedan1"><img src="https://github-readme-stats.vercel.app/api?username=sambedan1&show_icons=true&locale=en" alt="sambedan1"></a></td>
-	</tr>
+	
 </table>
 
 

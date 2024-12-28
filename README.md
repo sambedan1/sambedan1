@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gray White Minimalist Personal Profile Linkedin Banner (1).png">
+  <img src="github.com/Gray White Minimalist Personal Profile Linkedin Banner (1).png">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambedan-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="sambedan-sahoo" /> </p>
